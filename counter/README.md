@@ -1,5 +1,7 @@
 # counter
 
+![gif-counter](https://i.picasion.com/pic90/dffba228e17b8be1821be70d60efd37f.gif)
+
 A new Flutter project.
 
 ## Getting Started
