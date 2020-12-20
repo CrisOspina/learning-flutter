@@ -1,6 +1,6 @@
 # counter
 
-![gif-counter](https://i.picasion.com/pic90/dffba228e17b8be1821be70d60efd37f.gif)
+<img src="https://i.picasion.com/pic90/dffba228e17b8be1821be70d60efd37f.gif" alt="drawing" width="200"/>
 
 A new Flutter project.
 
